@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:alexrivada@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/alejandrorr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/alejandro-rivada-rodríguez-86b934351"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -25,11 +25,11 @@
 
 <h3 align="left">📂 Proyectos Destacados</h3>
 
-* **[AiSweeper](tu-link-aqui)**: Agente de Inteligencia Artificial desarrollado con Python y PyTorch que aprende a jugar al Buscaminas mediante aprendizaje por refuerzo (DQN).
-* **[WIChat](tu-link-aqui)**: Aplicación web Full-Stack colaborativa orientada a microservicios (React, Node.js, Docker).
+* **[AiSweeper](https://github.com/Alejandrorr572/ai-sweeper)**: Agente de Inteligencia Artificial desarrollado con Python y PyTorch que aprende a jugar al Buscaminas mediante aprendizaje por refuerzo (DQN).
+* **[WIChat](https://github.com/Alejandrorr572/wichat_es6a)**: Aplicación web Full-Stack colaborativa orientada a microservicios (React, Node.js, Docker).
 * **Sistemas Distribuidos y en Internet (SDI)**: Implementación de arquitecturas cliente-servidor en tres laboratorios:
-  * **[Spring](tu-link-aqui)** | **[Node.js](tu-link-aqui)** | **[SOAP](tu-link-aqui)**
-* **[DLP Compiler](tu-link-aqui)**: Construcción técnica de un compilador completo abarcando las fases léxica, sintáctica y semántica (Java, ANTLR4).
+  * **[Spring](https://github.com/Alejandrorr572/sdi-2425-613-lab-spring)** | **[Node.js](https://github.com/Alejandrorr572/sdi-2425-613-lab-nodejs)** | **[SOAP](https://github.com/Alejandrorr572/sdi-2425-613-lab-soap-sw)**
+* **[DLP Compiler](https://github.com/Alejandrorr572/dlp-UO295528)**: Construcción técnica de un compilador completo abarcando las fases léxica, sintáctica, semántica y generación de código (Java, ANTLR4).
 
 ---
 
