@@ -34,5 +34,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandrorr572&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandrorr572/Alejandrorr572/output/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandrorr572/Alejandrorr572/output/dist/github-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Alejandrorr572/Alejandrorr572/output/dist/github-snake-dark.svg">
+  </picture>
 </div>
